@@ -12,3 +12,5 @@ __pycache__
 .idea
 # models
 debug_exp/models/*
+# mypy
+.mypy_cache
