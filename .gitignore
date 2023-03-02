@@ -1,0 +1,12 @@
+# pychache
+**/.__pycache__/
+**/__pycache__/
+# history
+.history
+__pycache__
+**/data
+**/data/*
+# .vscode
+.vscode
+# .idea
+.idea
