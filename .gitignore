@@ -14,3 +14,7 @@ __pycache__
 debug_exp/models/*
 # mypy
 .mypy_cache
+# tensorboard
+debug_exp/logs/train/events.out.tfevents.*
+debug_exp/logs/val/events.out.tfevents.*
+debug_exp/results/*
